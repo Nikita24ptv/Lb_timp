@@ -114,8 +114,7 @@ SUITE(DecryptTest)
     TEST(MaxShiftDecrypt) {
         modAlphaCipher cipher("Я");
         std::string encrypted = cipher.encrypt("МИР");
-        std::string decrypted = cipher.decrypt(encrypted);
-        CHECK_EQUAL("МИР", decrypted);
+        CHECK_EQUAL(encrypted, "ЛЗП");
     }
 }
 

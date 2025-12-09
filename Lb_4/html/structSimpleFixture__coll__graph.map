@@ -1,0 +1,4 @@
+<map id="SimpleFixture" name="SimpleFixture">
+<area shape="rect" id="node1" title="Фикстура для тестов шифрования/расшифрования" alt="" coords="15,95,127,121"/>
+<area shape="rect" id="node2" href="$classmodAlphaCipher.html" title="Класс для шифрования и расшифрования текста методом Гронсфельда (русский алфавит)" alt="" coords="5,5,136,32"/>
+</map>

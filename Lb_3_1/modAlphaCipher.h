@@ -30,3 +30,37 @@ class modAlphaCipher {
         std::string encrypt(const std::string& open_text);
         std::string decrypt(const std::string& cipher_text);
 };
+
+/**
+ * @file modAlphaCipher.h
+ * @author Никита Седнёв
+ * @version 1.0
+ * @date 2025-11-27
+ * @brief Заголовочный файл для модуля шифрования методом Гронсфельда
+ */
+
+/**
+ * @class modAlphaCipher
+ * @brief Класс для шифрования и расшифрования текста методом Гронсфельда
+ * @details Использует алфавит из прописных английских букв
+ */
+class modAlphaCipher {
+    // ...
+public:
+    /**
+     * @brief Конструктор с ключом
+     * @param skey Ключ в виде строки
+     * @throw cipher_error Если ключ пустой или содержит недопустимые символы
+     */
+    modAlphaCipher(const std::string& skey);
+
+    /**
+     * @brief Шифрует открытый текст
+     * @param open_text Текст для шифрования
+     * @return Зашифрованная строка
+     * @throw cipher_error Если текст пустой
+     */
+    std::string encrypt(const std::string& open_text);
+
+    // Аналогично для decrypt и других методов
+};

@@ -1,0 +1,117 @@
+\begin{theindex}
+
+  \item {$\sim$KeyThree\_fixture}
+    \subitem {KeyThree\_fixture}, \hyperpage{16}
+  \item {$\sim$SimpleFixture}
+    \subitem {SimpleFixture}, \hyperpage{23}
+  \item {1/main.cpp}, \hyperpage{25}
+  \item {1/modAlphaCIpher.cpp}, \hyperpage{29}
+  \item {1/modAlphaCipher.h}, \hyperpage{30, 31}
+  \item {2/main.cpp}, \hyperpage{27}
+  \item {2/route.cpp}, \hyperpage{32}
+  \item {2/route.h}, \hyperpage{32}, \hyperpage{34}
+
+  \indexspace
+
+  \item {alphaNum}
+    \subitem {modAlphaCipher}, \hyperpage{22}
+
+  \indexspace
+
+  \item {cipher\_error}, \hyperpage{7}
+    \subitem {cipher\_error}, \hyperpage{8}
+  \item {code}, \hyperpage{9}
+    \subitem {code}, \hyperpage{9}
+    \subitem {encryption}, \hyperpage{11}
+    \subitem {getValidCipherText}, \hyperpage{12}
+    \subitem {getValidKey}, \hyperpage{12}
+    \subitem {getValidOpenText}, \hyperpage{13}
+    \subitem {key}, \hyperpage{15}
+    \subitem {transcript}, \hyperpage{14}
+  \item {codec}
+    \subitem {modAlphaCIpher.cpp}, \hyperpage{29}
+  \item {convert}
+    \subitem {modAlphaCipher}, \hyperpage{18, 19}
+
+  \indexspace
+
+  \item {decrypt}
+    \subitem {modAlphaCipher}, \hyperpage{19}
+
+  \indexspace
+
+  \item {encrypt}
+    \subitem {modAlphaCipher}, \hyperpage{20}
+  \item {encryption}
+    \subitem {code}, \hyperpage{11}
+
+  \indexspace
+
+  \item {getValidCipherText}
+    \subitem {code}, \hyperpage{12}
+    \subitem {modAlphaCipher}, \hyperpage{20}
+  \item {getValidKey}
+    \subitem {code}, \hyperpage{12}
+    \subitem {modAlphaCipher}, \hyperpage{21}
+  \item {getValidOpenText}
+    \subitem {code}, \hyperpage{13}
+    \subitem {modAlphaCipher}, \hyperpage{21}
+
+  \indexspace
+
+  \item {key}
+    \subitem {code}, \hyperpage{15}
+    \subitem {modAlphaCipher}, \hyperpage{22}
+  \item {KeyThree\_fixture}, \hyperpage{15}
+    \subitem {$\sim$KeyThree\_fixture}, \hyperpage{16}
+    \subitem {KeyThree\_fixture}, \hyperpage{16}
+    \subitem {t}, \hyperpage{16}
+
+  \indexspace
+
+  \item {main}
+    \subitem {main.cpp}, \hyperpage{26}, \hyperpage{28}
+  \item {main.cpp}
+    \subitem {main}, \hyperpage{26}, \hyperpage{28}
+    \subitem {SUITE}, \hyperpage{26--29}
+  \item {modAlphaCipher}, \hyperpage{16}
+    \subitem {alphaNum}, \hyperpage{22}
+    \subitem {convert}, \hyperpage{18, 19}
+    \subitem {decrypt}, \hyperpage{19}
+    \subitem {encrypt}, \hyperpage{20}
+    \subitem {getValidCipherText}, \hyperpage{20}
+    \subitem {getValidKey}, \hyperpage{21}
+    \subitem {getValidOpenText}, \hyperpage{21}
+    \subitem {key}, \hyperpage{22}
+    \subitem {modAlphaCipher}, \hyperpage{17, 18}
+    \subitem {numAlpha}, \hyperpage{22}
+  \item {modAlphaCIpher.cpp}
+    \subitem {codec}, \hyperpage{29}
+
+  \indexspace
+
+  \item {numAlpha}
+    \subitem {modAlphaCipher}, \hyperpage{22}
+
+  \indexspace
+
+  \item {p}
+    \subitem {SimpleFixture}, \hyperpage{23}
+
+  \indexspace
+
+  \item {SimpleFixture}, \hyperpage{22}
+    \subitem {$\sim$SimpleFixture}, \hyperpage{23}
+    \subitem {p}, \hyperpage{23}
+    \subitem {SimpleFixture}, \hyperpage{23}
+  \item {SUITE}
+    \subitem {main.cpp}, \hyperpage{26--29}
+
+  \indexspace
+
+  \item {t}
+    \subitem {KeyThree\_fixture}, \hyperpage{16}
+  \item {transcript}
+    \subitem {code}, \hyperpage{14}
+
+\end{theindex}
